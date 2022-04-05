@@ -1,4 +1,4 @@
 FROM openjdk
 WORKDIR /app
 COPY *.class .
-CMD ["java","HelloWorld"]
+CMD ["java","Sample"]
